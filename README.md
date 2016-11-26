@@ -11,7 +11,7 @@ Computes the Eigenvalues and Eigenvectors and the most significant scoring matri
 
 ## Usage
 
-1. Modify the """inputmatrix.txt""" to change the input matrix.
+1. Modify the 'inputmatrix.txt' to change the input matrix.
 2. Build and Run.
 
 ## Contributing
